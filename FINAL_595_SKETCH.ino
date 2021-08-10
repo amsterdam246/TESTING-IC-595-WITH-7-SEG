@@ -1,7 +1,7 @@
 #define LATCH 4
 #define CLK 3
 #define DATA 2
-int coinPin = 2;
+
 
 
 const byte digitOne[10] =
