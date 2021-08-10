@@ -2,8 +2,6 @@
 #define CLK 3
 #define DATA 2
 
-
-
 const byte digitOne[10] =
 {
   B00111111,  // 0
